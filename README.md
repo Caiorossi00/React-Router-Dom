@@ -6,7 +6,7 @@ Destaques e Aprendizados: <br>
 <ol>
   <li>Configuração do Router</li>
   <li>Reaproveitamento de estutura</li>
-  <li>Página de erro/li>
+  <li>Página de erro</li>
   <li>Hooks</li>
   <li>Nested routes com identificadores únicos e rotas dinãmicas</li>
   <li>Navigate para páginas inexistentes</li>

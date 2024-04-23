@@ -1,8 +1,19 @@
-# React + Vite
+<h1>React Router Dom</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto demonstra a prática e compreensão de um conceito crucial no desenvolvimento de aplicações React: o uso do React Router Dom para gerenciar o roteamento da aplicação.
 
-Currently, two official plugins are available:
+Destaques e Aprendizados: <br>
+<ol>
+  <li>Configuração do Router</li>
+  <li>Reaproveitamento de estutura</li>
+  <li>Página de erro/li>
+  <li>Hooks</li>
+  <li>Nested routes com identificadores únicos e rotas dinãmicas</li>
+  <li>Navigate para páginas inexistentes</li>
+</ol>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Datas Importantes: 
+<ul>
+  <li>Desenvolvido no dia: 23/04/2024</li>
+</ul>
+
